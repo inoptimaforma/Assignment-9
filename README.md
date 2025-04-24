@@ -1,5 +1,4 @@
 # hello
 
-## 📐 UML Class Diagram
+![UML Diagram](images/A_UML_class_diagram.png)
 
-![UML Diagram](A_UML_class_diagram.png)
